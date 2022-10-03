@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **joemansour2003@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joseph-mansour-336433221](https://www.linkedin.com/in/joseph-mansour-336433221)
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/joseph-mansour-336433221)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
