@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joe Mansour</h1>
 <h3 align="center">Second year Software Engineer Student</h3>
 
-- 🌱 I’m currently learning **Android app development**
-
 - 📫 How to reach me **joemansour2003@gmail.com**
 
 - 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/joseph-mansour-336433221)
