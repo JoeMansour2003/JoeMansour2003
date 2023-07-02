@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe Mansour</h1>
-<h3 align="center">Second year Software Engineer Student</h3>
+<h3 align="center">Third year Software Engineer Student</h3>
 
 - 📫 How to reach me **joemansour2003@gmail.com**
 
