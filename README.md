@@ -8,7 +8,7 @@
 - 📫 How to reach me **joemansour2003@gmail.com**
 
 - 📄 My experience [Resume](https://flowcv.com/resume/pcs4w82h3o)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeMansour2003&show_icons=true&theme=tokyonight)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
