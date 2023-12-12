@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joseph Mansour</h1>
 <h3 align="center">Third Year Software Engineer @UOttawa</h3>
 
-- 🔭 I’m currently working on **HomeLab Server**
+- 🔭 I’m currently working on **My HomeLab Server**
 
-- 🌱 I’m currently learning **Machine Learning and Security**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **joemansour2003@gmail.com**
 
-- 📄 My resume [https://flowcv.com/resume/pcs4w82h3o](https://flowcv.com/resume/pcs4w82h3o)
+- 📄 My resume [resume](https://flowcv.com/resume/pcs4w82h3o)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
