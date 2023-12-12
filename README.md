@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **joemansour2003@gmail.com**
 
-- 📄 My resume [resume](https://flowcv.com/resume/pcs4w82h3o)
+- 📄 My experience [Resume](https://flowcv.com/resume/pcs4w82h3o)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
