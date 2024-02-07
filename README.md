@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My HomeLab Server**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning [**Machine Learning**](https://github.com/JoeMansour2003/Skynet-NER/blob/main/NER-demo.ipynb) 
 
 - 📫 How to reach me **joemansour2003@gmail.com**
 
